@@ -64,7 +64,3 @@
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-![Flag of Ukraine](Flag_of_Ukraine.svg.png)
-
-[//]: # (<img src="./controllers_brief.svg">)
